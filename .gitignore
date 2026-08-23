@@ -1,8 +1,11 @@
 # Stored dependencies
-deb/packages/
+deb/archives/
+deb/deps/
 docker/images/
 pypi/cache/
 pypi/packages/
 
 # System paths and files
 .Trash-1000/
+lock
+*.bin

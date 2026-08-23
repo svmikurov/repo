@@ -1,0 +1,8 @@
+# Stored dependencies
+deb/packages/
+docker/images/
+pypi/cache/
+pypi/packages/
+
+# System paths and files
+.Trash-1000/
